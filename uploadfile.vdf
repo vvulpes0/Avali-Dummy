@@ -1,0 +1,11 @@
+"workshopitem"
+{
+	"appid"		"211820"
+	"publishedfileid"		"2243559356"
+	"contentfolder"		"/Users/fox/Projects/Avali-Dummy/obj"
+	"previewfile"		"/Users/fox/Projects/Avali-Dummy/preview.png"
+	"visibility"		"0"
+	"title"		"Avali Dummy"
+	"description"		"Tired of your Avali clothes clipping through a human-shape mannequin while exploring the crafting window?  Have one that more accurately represents your raptor-like body!  This affects the mannequin item too.\n\nWarning: the dummy is replaced for all races, not just Avali."
+	"changenote"		"Initial Release"
+}
